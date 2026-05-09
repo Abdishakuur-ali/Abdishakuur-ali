@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a https://www.instagram.com/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.zayidka@gmail.com" height="30" width="40" /></a>
+<a instagram.com/iam_abdishakourr?igsh=bWtjbGtrMml5bm1w><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.zayidka@gmail.com" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@abdishakourali-p6n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abdishakourali-p6n" height="30" width="40" /></a>
 </p>
 </p>
